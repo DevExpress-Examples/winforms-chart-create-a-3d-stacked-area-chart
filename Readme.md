@@ -19,7 +19,7 @@ Note that this series view type is associated with the [XY-Diagram 3D](https://d
 
 * [3D Stacked Area](https://docs.devexpress.com/WindowsForms/3305/controls-and-libraries/chart-control/series-views/3d-series-views/area-series-views/stacked-area-chart)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-create-a-3d-stacked-area-chart&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-create-a-3d-stacked-area-chart&~~~was_helpful=no)
 
